@@ -1,15 +1,15 @@
 # Welcome to TYPO3
 
-![TYPO3 11 LTS has launched](images/cms_v11_LTS.jpg "TYPO3 v11 is here")
+![TYPO3 11 LTS has launched](https://github.com/TYPO3/.github/blob/main/profile/images/cms_v11_LTS.jpg "TYPO3 v11 is here")
 
 ## About TYPO3
 
 TYPO3 CMS is an Open Source Enterprise Content Management System written in PHP.
 
-- [Multisite & Multilingual](https://typo3.org/cms/features/massively-multisite-multilingual).
-- [Secure & Scalable](https://typo3.org/cms/features/secure-performant-scalable).
-- [Open & Extendable](https://typo3.org/cms/features/open-extensible-customizable).
-- [Professional Open Source](https://typo3.org/cms/features/professional-open-source).
+- [Multisite & Multilingual](https://typo3.org/cms/features/massively-multisite-multilingual)
+- [Secure & Scalable](https://typo3.org/cms/features/secure-performant-scalable)
+- [Open & Extendable](https://typo3.org/cms/features/open-extensible-customizable)
+- [Professional Open Source](https://typo3.org/cms/features/professional-open-source)
 
 ## Getting Started
 
