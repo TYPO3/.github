@@ -1,6 +1,6 @@
 # Welcome to TYPO3
 
-![TYPO3 11 LTS has launched](https://github.com/TYPO3/.github/blob/main/profile/images/cms_v11_LTS.jpg "TYPO3 v11 is here")
+![TYPO3 12 LTS has launched](https://github.com/TYPO3/.github/blob/main/profile/images/typo3-v12-lts-banner.jpg "TYPO3 v12 is here")
 
 ## About TYPO3
 
