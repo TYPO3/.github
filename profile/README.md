@@ -1,6 +1,6 @@
 # Welcome to TYPO3
 
-![TYPO3 12 LTS has launched](/images/typo3-v12-lts-banner.jpg)
+![TYPO3 12 LTS has launched](/profile/images/typo3-v12-lts-banner.jpg)
 
 ## About TYPO3
 
