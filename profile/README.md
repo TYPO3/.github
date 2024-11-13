@@ -1,6 +1,6 @@
 # Welcome to TYPO3
 
-![TYPO3 12 LTS has launched](/profile/images/typo3-v12-lts-banner.jpg)
+![TYPO3 13 LTS has launched](/profile/images/typo3-v13-ride-the-wave.jpeg)
 
 ## About TYPO3
 
@@ -63,13 +63,13 @@ Here is an overview of the essential resources to help you find the correct info
 ## Getting Started
 TYPO3 has the most extensive and thorough [documentation](https://docs.typo3.org), making it easy to get started with the CMS.
 
-- [System Requirements](https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/SystemRequirements/Index.html) <br />
+- [System Requirements](https://get.typo3.org/version/13#system-requirements) <br />
 System requirements for the host operation system, including its web server and database and how they should be configured prior to installation.
-- [Installation Guide](https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Installation/Index.html) <br />
+- [Installation Guide](https://docs.typo3.org/m/typo3/tutorial-getting-started/13.4/en-us/Installation/Index.html) <br />
   The installation chapter provides detailed instructions about how to install TYPO3, it also contains information about how to deploy TYPO3 to a production environment.
-- [Setup](https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Setup/Index.html) <br />
+- [Setup](https://docs.typo3.org/m/typo3/tutorial-getting-started/13.4/en-us/FirstProject/Index.html) <br />
 Setup aims to guide you through the next steps post installation. Such as adding domains, setting up additional users and configuring languages.
-- [Troubleshooting](https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Troubleshooting/Index.html) <br />
+- [Troubleshooting](https://docs.typo3.org/m/typo3/tutorial-getting-started/13.4/en-us/Troubleshooting/Index.html) <br />
   Troubleshoot common issues that can occur during installation. The Troubleshooting chapter covers both TYPO3 CMS and the host environment including the web server, database and PHP.
 
 
@@ -77,12 +77,12 @@ Setup aims to guide you through the next steps post installation. Such as adding
 
 The best and easiest way to get in touch with the TYPO3 community and get help is via Slack. Find out how to create your Slack account [here](https://typo3.org/community/meet/chat-slack).
 
-- Register [here](https://my.typo3.org/about-mytypo3org/slack)
+- Register [here](https://my.typo3.org/register)
 - Join the official TYPO3 Slack channel [here](https://typo3.slack.com/)
 
 ## Contributing
 
-Thank you for considering contributing to the TYPO3 Project! The contribution guide can be found in the [TYPO3 documentation](https://docs.typo3.org/Home/Contribute.html).
+Thank you for considering contributing to the TYPO3 Project! The contribution guide can be found in the [TYPO3 documentation](https://docs.typo3.org/Home/Overview.html).
 
 - TYPO3 [Core](https://docs.typo3.org/m/typo3/guide-contributionworkflow/main/en-us/)
 - TYPO3 [Documentation](https://docs.typo3.org/m/typo3/docs-how-to-document/main/en-us/WritingDocsOfficial/Index.html)
